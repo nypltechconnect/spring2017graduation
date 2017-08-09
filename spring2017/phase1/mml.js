@@ -188,7 +188,7 @@ projects = [
 		"Group Projects": [
 			{
 				Name: "MTA in NYC",
-				URL: "https://jullie0608.github.io/nyc-mta/index.html"
+				URL: "https://sylvialande.github.io/jhs-nyc-mta"
 			},
 			{
 				Name: "The Eiffel Tower",
