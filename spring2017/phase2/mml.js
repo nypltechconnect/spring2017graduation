@@ -78,6 +78,10 @@ projects = [
 			{
 				Name: "Japanese Journey",
 				URL: "https://llayeredlynn.github.io/group-japan/music.html"
+			},
+			{
+				Name: "Travelogy",
+				URL: "https://ahirini.github.io/phase2-travelogy/"
 			}
 		]
 	}
