@@ -1,0 +1,144 @@
+.lion-backing {
+
+	background-image: url(https://c1.staticflickr.com/1/71/199603745_4f281d2936_b.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-bottom: -20px;
+
+}
+
+.jumbotron {
+	overflow: hidden;
+}
+
+.jumbotron h1 {
+	font-family: Kievit, Arial, sans-serif;
+
+}
+
+.mml-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/04/Mid-Manhattan_Library.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.columbus-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/06/NYPL_Columbus_Branch,_Manhattan.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.chatham-backing {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f2/NYPL_Chatham_Square_branch_WTM3_TEAM_TOM_0004.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+
+.morningside-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/57/NYPL_Washington_Heights_Branch,_Manhattan.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.blc-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e9/Bronx_Library_Center_main_entrance.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.stgeorge-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/ae/NYPL_Saint_George_Branch,_Staten_Island.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.sibl-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/42/SIBL.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.htr-backing {
+
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/NYPL_Countee_Cullen_Branch.jpg/845px-NYPL_Countee_Cullen_Branch.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.logo-header {
+	background-image: url(../images/nypl-tech-connect-logos-large-hires.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	text-align: center;
+}
+
+.tint-white {
+	background-color: rgba(230,230,230,0.83);
+	text-align: center;
+}
+
+.tint-grey {
+	background-color: rgba(100,100,100,0.1);
+	border-radius: 1%;
+}
+
+.row h3 {
+	background-color: rgba(255,255,255,0.7);
+}
+
+
+
+.carousel-text {
+	position: relative;
+	text-align: center;
+}
+
+.carousel-text p {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	padding: 5px;
+	font-size: 20px;
+}
+
+.featurette a {
+	cursor: pointer;
+}
+
+
+@media (min-width: 768px) {
+  #mainNav {
+	font-size: 20px;
+	vertical-align: top;
+	padding-bottom: 10px;
+	}
+
+}
+
+@media (max-width: 768px) {
+  #mainNav {
+	font-size: 20px;
+	vertical-align: top;
+	}
+
+}
+
+.push-header-down {
+		margin-top: 50px;
+	}
+
+@media (min-width: 1600px) {
+	.push-header-down {
+		margin-top: 7%;
+	}
+
+}
